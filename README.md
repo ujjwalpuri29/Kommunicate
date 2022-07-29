@@ -5,6 +5,8 @@ To view the code, open index.html and style.css
 
 [Click here to view the website](https://ujjwalpuri29.github.io/Kommunicate/)
 
+Image:![Screenshot (89)](https://user-images.githubusercontent.com/77334754/181817854-d894aaf7-502c-4f9d-97ac-106e330790cb.png)
+
 ### **Question 2**: 
 Refer to Q2.js for solution code to retrieve parameters
 
